@@ -18,7 +18,7 @@ git clone https://github.com/mothankal6-lab/Phishing-Detection-Scripts.git
 cd Phishing-Detection-Scripts
 pip install -r requirements.txt
 Usage
-python url_checker.py "http://example.com/login"
+python url_checker.py app.supabase
 python header_checker.py sample_email.eml
 Script names above are examples; update them to match the files in this repository.
 Project Structure
